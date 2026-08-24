@@ -69,7 +69,7 @@ A manual push button returns the system to baseline, replacing the non-functiona
 ### Images
 
 <p align="center">
-<img src="/assets/images/zerojoule/zerojoule-cover.png" width="800">
+<img src="/assets/images/zerojoule/zerojoule-cover.jpg" width="800">
 <br/>
 <i>Complete ZeroJoule hardware setup with MYOSA board, MPU6050, and OLED display</i>
 </p>
