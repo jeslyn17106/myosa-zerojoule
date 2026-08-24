@@ -385,7 +385,7 @@ Arduino Library Manager: `Adafruit MPU6050`, `Adafruit Sensor`, `SimpleKalmanFil
 └─ assets/
     └─ images/
         └─ zerojoule/
-            ├─ zerojoule-cover.png
+            ├─ zerojoule-cover.jpg
             ├─ setup.jpg
             ├─ oled-dashboard.jpg
             ├─ mpu6050-mounting.jpg
