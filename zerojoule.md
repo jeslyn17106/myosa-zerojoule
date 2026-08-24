@@ -2,7 +2,7 @@
 publishDate: 2026-08-24T00:00:00Z
 title: ZeroJoule
 excerpt: Edge-computing cyber-physical defense system that detects and mitigates physics-layer oscillation attacks on IoT actuators using a six-layer Kalman/spectral pipeline and a Security-Energy Impact Score.
-image: /assets/images/zerojoule/zerojoule-cover.png
+image: /assets/images/zerojoule/zerojoule-cover.jpg
 tags:
   - IoT Security
   - Edge Computing
